@@ -1,1 +1,0 @@
-Some text that you make use of in your package and that should be shiped to the user.
