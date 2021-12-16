@@ -11,5 +11,12 @@ This is the minimal skeleton for any kind of single python library. It contains
 a single module `ppe` that the user can import and use.
 
 ## setuptool_simple_clitool
-Extens **setuptool_helloworld** to expose a cli tool named `ppe-hello` that executes
+Extends **setuptool_helloworld** to expose a cli tool named `ppe-hello` that executes
 ppe.main.main().
+
+
+## setuptool_artifacts
+Shows how one can include artifacts as part of a package.
+Two options are demonstrated
+# Option 1: Including artifacts into the source folder of your package (easy way)
+# Option 2: Keeping artifacts separate from your source files (harder way)
